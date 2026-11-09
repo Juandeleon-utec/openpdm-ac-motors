@@ -24,9 +24,3 @@ Prueba de concepto de 2020: nodo ESP8266 + MPU-6050, gateway Raspberry Pi y pron
 © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 Este archivo es la versión aceptada del autor. La versión publicada está disponible en IEEE Xplore (DOI pendiente).
-
-## Cómo agregar una publicación
-
-1. Crear una carpeta `AAAA-evento` (por ejemplo, `2027-sbai`).
-2. Agregar una fila a la tabla de arriba y una sección con los archivos.
-3. Si el editor tiene copyright sobre el artículo, subir solo la versión que su política permita, con el aviso correspondiente.
