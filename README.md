@@ -38,7 +38,6 @@ Las limitaciones identificadas en ese prototipo orientan el diseño actual:
 | Conversión heurística de aceleración a mm/s | Pronóstico directo de velocidad de vibración, validado contra un vibrómetro de referencia |
 | Sin líneas base y una sola corrida por configuración | Comparación con persistencia, regresión lineal y ARIMA, con varias semillas |
 | Validación en laboratorio con dos motores | Despliegue en planta, objetivo TRL 7 |
-| Datos originales no conservados | Datos, código y hardware versionados en este repositorio |
 
 ## Estado actual
 
