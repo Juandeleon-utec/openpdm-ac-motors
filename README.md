@@ -37,7 +37,7 @@ Las limitaciones identificadas en ese prototipo orientan el diseño actual:
 | Sensor montado cerca de las patas del motor | Montaje sobre los alojamientos de rodamiento |
 | Conversión heurística de aceleración a mm/s | Pronóstico directo de velocidad de vibración, validado contra un vibrómetro de referencia |
 | Sin líneas base y una sola corrida por configuración | Comparación con persistencia, regresión lineal y ARIMA, con varias semillas |
-| Validación en laboratorio con dos motores | Despliegue en planta, objetivo TRL 7 |
+| Validación en laboratorio con dos motores | Despliegue en planta, objetivo TRL 6-7 |
 
 ## Estado actual
 
