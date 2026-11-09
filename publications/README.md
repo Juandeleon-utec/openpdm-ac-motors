@@ -12,9 +12,8 @@ Prueba de concepto de 2020: nodo ESP8266 + MPU-6050, gateway Raspberry Pi y pron
 
 | Archivo | Contenido |
 |---|---|
-| `paper_accepted.pdf` | Versión aceptada del autor (ver aviso de copyright) |
-| `slides.pptx` | Presentación de la conferencia (diapositivas en inglés, notas del orador en español) |
-| `resumen_es.pdf` | Resumen del trabajo en español |
+| `m7323-de_leon_sum.pdf` | Versión aceptada del autor (ver aviso de copyright) |
+| `slides.pdf` | Presentación de la conferencia (diapositivas en inglés, notas del orador en español) |
 
 - Tesis original: [10.5281/zenodo.21135685](https://doi.org/10.5281/zenodo.21135685)
 - DOI del artículo en IEEE Xplore: *pendiente de publicación*
